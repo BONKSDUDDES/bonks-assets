@@ -1,0 +1,2 @@
+# bonks-assets
+only pic
